@@ -4,7 +4,7 @@ var   bodyParser = require("body-parser"),
       fs         = require('fs'),
       methodOverride = require('method-override'),
       morgan     = require("morgan");
-var port = normalizePort(process.env.PORT || '3000'
+var port = normalizePort(process.env.PORT || '3000');
 /////////////CONFIGURATION////////
 app.set("view engine", "ejs");
 app.use(express.static("public"));
