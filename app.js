@@ -59,4 +59,4 @@ function datas(req, res){
 /////////// LISTENING PORT///////////
 app.listen(port, function() {
   console.log(`App running on port ${port}`);
-}
+});
