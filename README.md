@@ -14,7 +14,7 @@
   In order to run the app you need to follow a couple of easy steps.
 </p>
 <p align="left"> 
-  First, you need to install <a href="https://nodejs.org/en">Node.js</a> (I am currently on the newest version 14.15.3). After that, you must open the folder Game with the console and install some packages using <b>npm</b>. 
+  First, you need to install <a href="https://nodejs.org/en">Node.js</a> (I am currently runing version 14.15.3). After that, you must open the folder Game with the console and install some packages using <b>npm</b>. 
 </p>
 <p align="left"> 
   Copy and paste this on the console to install all the packages that are required: <b> npm i ejs body-parser express method-override morgan</b>
