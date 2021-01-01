@@ -4,7 +4,7 @@ var   bodyParser = require("body-parser"),
       fs         = require('fs'),
       methodOverride = require('method-override'),
       morgan     = require("morgan");
-const port = 104.131.174.110:3000;
+// const port = 104.131.174.110:3000;
 /////////////CONFIGURATION////////
 app.set("view engine", "ejs");
 app.use(express.static("public"));
@@ -57,6 +57,7 @@ function datas(req, res){
 };
 
 /////////// LISTENING PORT///////////
-app.listen(port, () => {
-  console.log(`Example app listening at http://localhost:${port}`)
-});
+app.listen(3000, "0.0.0.0");
+// app.listen(port, () => {
+//   console.log(`Example app listening at http://localhost:${port}`)
+// });
