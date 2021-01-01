@@ -1,4 +1,4 @@
 # Fruit Gambling Machine 
 ### Project made with Node.js
-<img src="https://i.imgur.com/EVkeaUt.png" width="300" height="300" style="margin:200px">
+<img src="https://i.imgur.com/EVkeaUt.png" width="500" height="500" >
 
