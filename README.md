@@ -9,6 +9,7 @@
 </p>
 <hr>
 <h2 align="center">Next Steps</h2>
+
 - [ ] Implement a fruit picker UI.
 - [ ] Eliminate the transparents palce holder numbers on each fruit square.
 - [ ] Fix CSS effects.
