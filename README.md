@@ -9,4 +9,4 @@
  margin: 100px;
 }
 </style>
-<img class="centerImage" src="https://i.imgur.com/EVkeaUt.png" width="500" height="500" >
+<img class="centerImage" src="https://i.imgur.com/EVkeaUt.png" width="500" height="500"  align="left" >
